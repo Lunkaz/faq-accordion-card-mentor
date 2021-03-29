@@ -90,7 +90,7 @@ body {
     color: hsl(240, 6%, 50%);
     margin-top: 0;
     margin-bottom: 1.3em;
-    padding-right: 2em;
+    padding-right: 1.3em;
     display: none;
     line-height: 1.6em;
 }
@@ -171,7 +171,7 @@ body {
     }
 
     .faq-all-questions {
-        width: 476px;
+        width: 36.5em;
         padding: 3.5em 6em 6em 2.5em;
     }
 
