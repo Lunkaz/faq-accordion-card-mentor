@@ -28,7 +28,7 @@ Background gradient:
 #### Text
 
 - Very dark grayish blue: hsl(237, 12%, 33%)
-- Dark grayish blue: hsl(240, 6%, 50%)
+- Dark grayish blue: hsl(240, 6%, 50%) 
 
 #### Dividers
 

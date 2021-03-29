@@ -39,11 +39,6 @@ body {
     align-self: center;
 }
 
-.faq-image {
-    width: 450px;
-    object-fit: cover;
-}
-
 .faq-title {
     color: hsl(238, 29%, 16%);
     font-size: 2rem;
