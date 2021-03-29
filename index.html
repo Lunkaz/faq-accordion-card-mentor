@@ -18,7 +18,15 @@
   <div class="container">
     <div class="faq-content">
       <div class="faq-image-container">
-        <img class="faq-image" alt="" src="images/illustration-woman-online-mobile.svg">
+        <picture>
+          <source media="(max-width:1280px)" srcset="images/illustration-woman-online-mobile.svg">
+          <img class="faq-image" src="images/illustration-woman-online-desktop.svg" alt="picture"">
+        </picture>
+        <!--picture>
+          <source media="(min-width:1000px)" srcset="images/illustration-woman-online-desktop.svg">
+          <img class="faq-image" src="images/illustration-woman-online-mobile.svg" alt="picture"">
+        </picture-->
+        <!--img class="faq-image" alt="" src="images/illustration-woman-online-mobile.svg"-->
       </div>
 
       <div class="faq-all-questions">
